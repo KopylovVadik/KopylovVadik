@@ -1,4 +1,4 @@
-<p style="text-align: center;">Begginner software - engineer</p>
+<p style="text-align: center;">software - engineer</p>
 
 Technology stack:
 
